@@ -46,7 +46,7 @@ Once the bot is added to your server, you can use the `/play` command or mention
 
 ## Contributing
 
-Contributions to Dusic are welcome! If you find a bug or have a feature request, please open an issue. 🐛 If you'd like to contribute code, please fork the repository and submit a pull request. 👨‍💻 You can also take a look at the [Todo List](#todo-list) to see what needs to be done.
+Contributions to Dusic are welcome! If you find a bug or have a feature request, please open an issue. 🐛 If you'd like to contribute code, please fork the repository and submit a pull request. 👨‍💻
 
 ## License
 
