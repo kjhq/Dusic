@@ -1,53 +1,64 @@
-# Dusic - The Ultimate Discord Music Bot 🎵🤖
+# dusic
 
-Dusic is a feature-packed, open-source, free, and easy to use Discord music bot that brings the power of music to your server like never before. 🎶🔊 With its intuitive controls via both commands and natural language processing, Dusic makes playing audio from Spotify a seamless and delightful experience.
+discord music bot — spotify, youtube, natural language requests. open source, free, easy to use.
 
-## Table of Contents
+![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![discord](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Commands](#commands)
-- [Contributing](#contributing)
-- [License](#license)
+`python` `discord.py` `openai` `spotify`
 
-## Features
+---
 
-- Play audio from Spotify 🎧
-- Supports playlists and queues 📋
-- Volume control 🔊
-- Pause, resume, and skip functionality ⏯️
-- Loop mode 🔁
-- Autoplay mode 🔀
-- Control via commands or by mentioning the bot and speaking in English 💬
-- Extremely easy to use 🙌
-- And more! 🚀
+## features
 
-## Installation
+- play audio from spotify
+- playlists and queues
+- volume control
+- pause, resume, skip
+- loop and autoplay modes
+- control via slash commands or natural language (mention the bot)
 
-To use Dusic, simply click the button below to add the bot to your Discord server: 👇
+---
 
-[![Add Dusic to your server](https://img.shields.io/badge/Add%20to%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1225070174453891102)
+## install
 
-## Usage
+[![add to discord](https://img.shields.io/badge/add%20to%20discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1225070174453891102)
 
-Once the bot is added to your server, you can use the `/play` command or mention the bot and speak to it in English to play audio from YouTube. All other commands, such as pause, resume, and skip, are also supported through both commands and natural language processing. 💬
+---
 
-## Commands
+## usage
 
-| Command | Description |
+add the bot to your server, then `/play <song>` or mention the bot in english. pause, resume, skip work via commands or natural language.
+
+---
+
+## commands
+
+| command | description |
 | --- | --- |
-| `/play <song>` | Plays the specified song from YouTube. 🎶 |
-| `Pause` | Pauses the current song. ⏸️ |
-| `Resume` | Resumes the current song. ▶️ |
-| `Skip` | Skips the current song. ⏭️ |
-| `Queue` | Displays the current song queue. 📃 |
-| `Volume <level>` | Sets the volume of the bot. 🔊 |
+| `/play <song>` | play from youtube |
+| `pause` | pause current track |
+| `resume` | resume |
+| `skip` | skip track |
+| `queue` | show queue |
+| `volume <level>` | set volume |
 
-## Contributing
+---
 
-Contributions to Dusic are welcome! If you find a bug or have a feature request, please open an issue. 🐛 If you'd like to contribute code, please fork the repository and submit a pull request. 👨‍💻
+## contributing
 
-## License
+bugs and feature requests → open an issue. code → fork and pr.
 
-Dusic is licensed under the [MIT License](LICENSE), making it open-source and free to use. 📜
+---
+
+## license
+
+[mit](LICENSE)
+
+---
+
+<div align="center">
+
+built by [kjhq](https://kjhq.dev) · [@kjhqdev](https://x.com/kjhqdev)
+
+</div>
